@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "backend-shinobi",
+  "version": "1.0.0",
+  "description": "A backend complementary to the project shinobi rank for the senpai academy students",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignacio-nacho-barbano/shinobi-tier-backend.git"
+  },
+  "keywords": [
+    "backend",
+    "express",
+    "shinobi",
+    "node",
+    "ninja",
+    "naruto",
+    "fun",
+    "node"
+  ],
+  "author": "Ignacio Barbano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ignacio-nacho-barbano/shinobi-tier-backend/issues"
+  },
+  "homepage": "https://github.com/ignacio-nacho-barbano/shinobi-tier-backend#readme"
+}
